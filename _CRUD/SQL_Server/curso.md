@@ -1,0 +1,1 @@
+## [Fazt - Microsoft SQL Server & Nodejs REST API CRUD](https://youtu.be/VuQAF-44Lo0?si=i274grNtdf7skqVM)
