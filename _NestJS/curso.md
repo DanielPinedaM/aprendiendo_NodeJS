@@ -1,1 +1,1 @@
-## [Fazt - urso de NestJS - Framework Bakend de NodeJS](https://youtu.be/mXDxH1HP3x0)
+## [Fazt - curso de NestJS - Framework Bakend de NodeJS](https://youtu.be/mXDxH1HP3x0)
