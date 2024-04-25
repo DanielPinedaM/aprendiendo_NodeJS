@@ -1,1 +1,0 @@
-## [Fazt - curso de NestJS - Framework Bakend de NodeJS](https://youtu.be/wsqcg5ZtUMM?si=8m9IezDgN1PDwKia)
